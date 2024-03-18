@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.de{
+    font-size: 30px;
+    color: rgb(51, 28, 11);
+    background-color: rgb(107, 51, 98);
+}
+.baby{
+    border: 4px solid black;
+    color: rgb(22, 17, 17);
+    background-color: rgb(118, 86, 118);
+    width: 900px;
+    
+}
+.money{
+    font-size: 20px;
+    color: black;
+}
+.color{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    
+}
+.rangu{
+    display: flex;
+    gap: 4px;
+
+}
+.color-red{
+    background-color: red;
+}
+.color-blue{
+    background-color: rgb(54, 54, 235);
+}
+.color-green{
+    background-color: green;
+}
+.color-pink{
+    background-color: pink;
+}
+.round{
+    display: flex;
+    gap: 15px;
+}
+.gt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.paper{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(243, 83, 88);
+}
+.dp{
+    flex: 2;
+}
+.rangu{
+    display: flex;
+    gap: 6px;
+}
+.tough{
+    background-color: rgb(135, 62, 129);
+    font-size: 30px;
+    font-weight: 20px;
+    width: 100%;
+    cursor: pointer; 
+}
+.tough:hover{
+    background-color: rgb(100, 67, 95);
+    color: black;
+}
+
+
